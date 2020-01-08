@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'GT Eesti Pro Text Book';
+    src: url('GTEestiProText.eot');
+    src: url('GTEestiProText.eot?#iefix') format('embedded-opentype'),
+        url('GTEestiProText.woff2') format('woff2'),
+        url('GTEestiProText.woff') format('woff'),
+        url('GTEestiProText.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
