@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'Sailec';
+	src: url('Sailec-regular.eot');
+	src: url('Sailec-regular.eot?#iefix') format('embedded-opentype'),
+		url('Sailec-regular.woff2') format('woff2'),
+		url('Sailec-regular.woff') format('woff'),
+		url('Sailec-regular.ttf') format('truetype'),
+		url('Sailec-regular.svg#Sailec-regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
