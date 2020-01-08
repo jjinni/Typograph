@@ -1,11 +1,10 @@
 @font-face {
     font-family: 'Cisco Sans';
-    src: url('CiscoSans.eot');
-    src: local('Cisco Sans'), local('CiscoSans'),
-        url('CiscoSans.eot?#iefix') format('embedded-opentype'),
-        url('CiscoSans.woff2') format('woff2'),
-        url('CiscoSans.woff') format('woff'),
-        url('CiscoSans.ttf') format('truetype');
+    src: url('CiscoSans-regular.eot');
+    src: url('CiscoSans-regular.eot?#iefix') format('embedded-opentype'),
+        url('CiscoSans-regular.woff2') format('woff2'),
+        url('CiscoSans-regular.woff') format('woff'),
+        url('CiscoSans-regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
