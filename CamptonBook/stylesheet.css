@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Campton Book';
+    src: url('Campton-Book.eot');
+    src: url('Campton-Book.eot?#iefix') format('embedded-opentype'),
+        url('Campton-Book.woff2') format('woff2'),
+        url('Campton-Book.woff') format('woff'),
+        url('Campton-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
