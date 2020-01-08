@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Gerbera';
+    src: url('Gerbera.eot');
+    src: url('Gerbera.eot?#iefix') format('embedded-opentype'),
+        url('Gerbera.woff2') format('woff2'),
+        url('Gerbera.woff') format('woff'),
+        url('Gerbera.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
