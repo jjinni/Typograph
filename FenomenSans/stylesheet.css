@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Fenomen Sans';
+    src: url('FenomenSans.eot');
+    src: url('FenomenSans.eot?#iefix') format('embedded-opentype'),
+        url('FenomenSans.woff2') format('woff2'),
+        url('FenomenSans.woff') format('woff'),
+        url('FenomenSans.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fenomen Sans Book';
+    src: url('FenomenSans-Book.eot');
+    src: url('FenomenSans-Book.eot?#iefix') format('embedded-opentype'),
+        url('FenomenSans-Book.woff2') format('woff2'),
+        url('FenomenSans-Book.woff') format('woff'),
+        url('FenomenSans-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
