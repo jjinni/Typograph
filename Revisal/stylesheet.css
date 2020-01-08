@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Revisal';
+    src: url('Revisal-regular.eot');
+    src: url('Revisal-regular.eot?#iefix') format('embedded-opentype'),
+        url('Revisal-regular.woff2') format('woff2'),
+        url('Revisal-regular.woff') format('woff'),
+        url('Revisal-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
